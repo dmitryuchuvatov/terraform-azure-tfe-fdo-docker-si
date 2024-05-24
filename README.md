@@ -1,11 +1,17 @@
 # Terraform Enterprise Flexible Deployment Options - External Services mode on Docker (Azure)
 
+# Diagram
+
+
 # Prerequisites
-* Install and configure Terraform as per [official documentation](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
-* Azure account
++ Have Terraform installed as per the [official documentation](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
-* TFE license file in **.rli** format
++ Have **Azure CLI** installed as per the [official documentation](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+
++ Microsoft Azure account
+
++ TFE FDO license
 
 # How To
 
