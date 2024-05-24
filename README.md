@@ -58,18 +58,12 @@ When prompted, type **yes** and hit **Enter** to start provisioning Azure infras
 You should see the similar result:
 
 ```
-Apply complete! Resources: 25 added, 0 changed, 0 destroyed.
+Apply complete! Resources: 30 added, 0 changed, 0 destroyed.
 
 Outputs:
 
-replicated_dashboard = "https://dmitry-tfe.westeurope.cloudapp.azure.com:8800"
+tfe_url = "https://dmitry-fdo-azure.tf-support.hashicorpdemo.com"
 ssh_login = "ssh adminuser@40.68.116.63"
 ```
-
-
-
-
-
-
 
 
